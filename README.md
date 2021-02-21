@@ -2,18 +2,6 @@
 
 Post-doc research associate with experience applying cheminformatics and machine learning to drug metabolism and toxicology problems.
 
-### Projects
-
-- Unsupervised and data pre-processing project
-
-- eDragon script
-
-- Self-normalising neural network
-
-- Graph or convolution neural network
-
-- Scikit-learn/gradient boosting project
-
 ### Publications
 
 - [Bradshaw et al. (2018) Metabolic Hydrolysis of Aromatic Amides in Selected Rat, Minipig, and Human In Vitro Systems, Sci Rep 8, 2405](https://doi.org/10.1038/s41598-018-20464-4)
